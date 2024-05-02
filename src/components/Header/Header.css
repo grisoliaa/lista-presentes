@@ -1,0 +1,13 @@
+.header {
+    background-color: #FFD4DB;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px 0px;
+  }
+
+.h1-header {
+    font-size: 16px;
+    color: white;
+    font-weight: 400;
+  }

@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins";
+    box-sizing: border-box;
+}
+
+.container-all-create {
+    padding: 80px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.h1-title-create {
+    color: #FFC2CC;
+    font-weight: 700;
+    font-size: 32px;
+    margin-bottom: 50px;
+}
+
+.form-create {
+    width: 330px;
+}
+
+.inputs-create {
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.buttons-create {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}

@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-all-payment {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.h1-title-payment {
+    color: #FFC2CC;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.form-all-payment {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-credentials-payment {
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-bottom: 80px;
+}
+
+.input-month-year-payment {
+    border: 2px solid #FFC2CC;
+    width: 100%;
+    border-radius: 4px;
+    padding: 25px 8px 8px 15px;
+}
+
+.form-input-month-year-payment {
+    display: flex;
+    gap: 20px;
+}
+
+.form-input-cardCredentials-payment {
+    display: flex;
+    gap: 20px;
+}
+
+.input-CVV-payment {
+    border: 2px solid #FFC2CC;
+    width: 90px;
+    border-radius: 4px;
+    padding: 25px 8px 8px 15px;
+}
+
+.input-parcelas-payment {
+    border: 2px solid #FFC2CC;
+    width: 220px;
+    border-radius: 4px;
+    padding: 25px 8px 8px 15px;
+}
+
+.form-buttons-payment {
+    display: flex;
+    gap: 80px;
+}
+
+.button-sendMessage-payment {
+    background-color: #FF8599;
+}

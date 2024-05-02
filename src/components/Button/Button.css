@@ -1,0 +1,10 @@
+.button-back {
+    width: 294px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    background-color: #FFD4DB;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    height: 43px;
+    font-size: 22px;
+}

@@ -1,0 +1,11 @@
+.page-container {
+    width: 1059px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  
+    background-color: #FDFDFD;
+    box-shadow: 4px 4px 20px 2px #00000040;
+    z-index: 1000;
+  }

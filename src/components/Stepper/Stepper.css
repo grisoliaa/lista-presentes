@@ -1,0 +1,33 @@
+.horizontal-stepper-buy {
+    display: flex;
+    margin: 50px 0px;
+}
+
+.arrow-left-buy {
+    margin-right: 60px;
+}
+
+.stepper-content-buy {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.stepper-all-h1-buy {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.stepper-h1-buy {
+    font-size: 14px;
+    font-weight: 500;
+    color: #808080DE;
+}
+
+.hr-stepper-buy {
+    height: 1px;
+    width: 167px;
+    background-color: #E0E0E0;
+
+}

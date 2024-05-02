@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins";
+    box-sizing: border-box;
+}
+
+.container-all-createevent {
+    padding: 80px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 611px;
+}
+
+.h1-title-createevent {
+    color: #FFC2CC;
+    font-weight: 700;
+    font-size: 32px;
+    margin-bottom: 50px;
+}
+
+.inputs-createevent {
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.form-createevent {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 80px;
+}
+
+.buttons-form-createevent {
+    display: flex;
+    gap: 30px;
+}
+
+.button-back {
+    width: 294px;
+}

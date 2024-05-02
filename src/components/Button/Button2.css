@@ -1,0 +1,10 @@
+.button-sendMessage-info {
+    width: 294px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    height: 43px;
+    font-size: 22px;
+    background-color: #FF8599;
+}

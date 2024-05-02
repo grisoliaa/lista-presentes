@@ -1,0 +1,25 @@
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    padding: 50px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f5f2f2;
+  
+    position: relative;
+  }
+
+  .page-decoration-home {
+    width: calc(100vw - 16px);
+    background-color: #FFD4DB;
+    height: 512px;
+    position: absolute;
+    left: 0;
+    z-index: 0;
+  }
